@@ -1,3 +1,31 @@
 [submodule "services/Kvitok_User_Service"]
 	path = services/Kvitok_User_Service
 	url = https://github.com/kvitkoaleksandr/Kvitok_User_Service.git
+[submodule "services/Kvitok_Achievement_Service"]
+	path = services/Kvitok_Achievement_Service
+	url = https://github.com/kvitkoaleksandr/Kvitok_Achievement_Service.git
+	branch = main
+[submodule "services/Kvitok_Analytics_Service"]
+	path = services/Kvitok_Analytics_Service
+	url = https://github.com/kvitkoaleksandr/Kvitok_Analytics_Service.git
+	branch = main
+[submodule "services/Kvitok_Infra"]
+	path = services/Kvitok_Infra
+	url = https://github.com/kvitkoaleksandr/Kvitok_Infra.git
+	branch = main
+[submodule "services/Kvitok_Notification_Service"]
+	path = services/Kvitok_Notification_Service
+	url = https://github.com/kvitkoaleksandr/Kvitok_Notification_Service.git
+	branch = main
+[submodule "services/Kvitok_Payment_Service"]
+	path = services/Kvitok_Payment_Service
+	url = https://github.com/kvitkoaleksandr/Kvitok_Payment_Service.git
+	branch = main
+[submodule "services/Kvitok_Post_Service"]
+	path = services/Kvitok_Post_Service
+	url = https://github.com/kvitkoaleksandr/Kvitok_Post_Service.git
+	branch = main
+[submodule "services/Kvitok_Project_Service"]
+	path = services/Kvitok_Project_Service
+	url = https://github.com/kvitkoaleksandr/Kvitok_Project_Service.git
+	branch = main
