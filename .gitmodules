@@ -1,0 +1,3 @@
+[submodule "services/Kvitok_User_Service"]
+	path = services/Kvitok_User_Service
+	url = https://github.com/kvitkoaleksandr/Kvitok_User_Service.git
